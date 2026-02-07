@@ -189,12 +189,6 @@ Created as part of learning C++ programming and understanding Object-Oriented Pr
 
 This project is open source and available for educational purposes.
 
-
-
-## 👨‍💻 Author
-
-Developed by [Your Name] as a learning project to understand C++ OOP concepts.
-
 ## 📅 Development Timeline
 
 - Day 1: Designed class structure and implemented Student/Course classes
