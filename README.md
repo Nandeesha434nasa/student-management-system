@@ -188,3 +188,23 @@ Created as part of learning C++ programming and understanding Object-Oriented Pr
 ## 📄 License
 
 This project is open source and available for educational purposes.
+
+
+
+## 👨‍💻 Author
+
+Developed by [Your Name] as a learning project to understand C++ OOP concepts.
+
+## 📅 Development Timeline
+
+- Day 1: Designed class structure and implemented Student/Course classes
+- Day 2: Built Database management system with CRUD operations
+- Day 3: Added file persistence and tested thoroughly
+- Day 4: Refined code and added documentation
+
+## 🎓 What I Learned
+
+- Object-Oriented Programming in C++
+- Working with STL containers (vector, map)
+- File I/O and serialization
+- Menu-driven program design
